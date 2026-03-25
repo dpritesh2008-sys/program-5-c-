@@ -2,11 +2,11 @@
 C module 5
 EX NO:5-c) Sum of opposite diagonal of a matrix. 
 
-Date:19/10/2025 
+Date:25/3/2026 
 
-Name: VASANTH S 
+Name: Ritesh DP
 
-Ref no: 25017538
+Ref no: 25015366
 
 AIM:
 To write a C program to find the sum of opposite diagonal elements of a given matrix.
